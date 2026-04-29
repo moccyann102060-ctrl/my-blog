@@ -1,0 +1,8 @@
+baseURL = "https://example.pages.dev/"
+languageCode = "ja"
+title = "QOLを追い求めるブログ"
+theme = "PaperMod"
+
+[params]
+  ShowReadingTime = true
+  ShowPostNavLinks = true
