@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Tags on QOLを追い求めるブログ</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on QOLを追い求めるブログ</description>
-    <generator>Hugo</generator>
-    <language>ja</language>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Tags on QOLを追い求めるブログ</title><link>https://morning-wave-389b.moccyann102060.workers.dev/tags/</link><description>Recent content in Tags on QOLを追い求めるブログ</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Fri, 01 May 2026 00:00:00 +0900</lastBuildDate><atom:link href="https://morning-wave-389b.moccyann102060.workers.dev/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>アレクサ</title><link>https://morning-wave-389b.moccyann102060.workers.dev/tags/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5/</link><pubDate>Fri, 01 May 2026 00:00:00 +0900</pubDate><guid>https://morning-wave-389b.moccyann102060.workers.dev/tags/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5/</guid><description/></item><item><title>ルンバ</title><link>https://morning-wave-389b.moccyann102060.workers.dev/tags/%E3%83%AB%E3%83%B3%E3%83%90/</link><pubDate>Fri, 01 May 2026 00:00:00 +0900</pubDate><guid>https://morning-wave-389b.moccyann102060.workers.dev/tags/%E3%83%AB%E3%83%B3%E3%83%90/</guid><description/></item><item><title>家電</title><link>https://morning-wave-389b.moccyann102060.workers.dev/tags/%E5%AE%B6%E9%9B%BB/</link><pubDate>Fri, 01 May 2026 00:00:00 +0900</pubDate><guid>https://morning-wave-389b.moccyann102060.workers.dev/tags/%E5%AE%B6%E9%9B%BB/</guid><description/></item><item><title>掃除</title><link>https://morning-wave-389b.moccyann102060.workers.dev/tags/%E6%8E%83%E9%99%A4/</link><pubDate>Fri, 01 May 2026 00:00:00 +0900</pubDate><guid>https://morning-wave-389b.moccyann102060.workers.dev/tags/%E6%8E%83%E9%99%A4/</guid><description/></item><item><title>時短</title><link>https://morning-wave-389b.moccyann102060.workers.dev/tags/%E6%99%82%E7%9F%AD/</link><pubDate>Fri, 01 May 2026 00:00:00 +0900</pubDate><guid>https://morning-wave-389b.moccyann102060.workers.dev/tags/%E6%99%82%E7%9F%AD/</guid><description/></item></channel></rss>
