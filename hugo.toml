@@ -1,4 +1,4 @@
-baseURL = "https://example.pages.dev/"
+baseURL = "https://my-blog-bg3.pages.dev/"
 languageCode = "ja"
 title = "QOLを追い求めるブログ"
 theme = "PaperMod"
@@ -6,3 +6,15 @@ theme = "PaperMod"
 [params]
   ShowReadingTime = true
   ShowPostNavLinks = true
+
+[params.homeInfoParams]
+  Title = "QOLを追い求めるブログ"
+  Content = "日々のQOL向上を目指すブログです"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[[menus.main]]
+  name = "記事一覧"
+  url = "/posts/"
+  weight = 1
