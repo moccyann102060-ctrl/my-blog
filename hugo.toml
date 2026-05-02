@@ -18,3 +18,8 @@ theme = "PaperMod"
   name = "記事一覧"
   url = "/posts/"
   weight = 1
+
+[[menus.main]]
+  name = "カテゴリー"
+  url = "/categories/"
+  weight = 2
