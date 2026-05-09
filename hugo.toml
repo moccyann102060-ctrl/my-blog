@@ -12,8 +12,11 @@ theme = "PaperMod"
 
 [params.homeInfoParams]
   Title = "QOLを追い求めるブログ"
-  Content = "日々のQOL向上を目指すブログです"
+  Content = """
+日々のQOL向上を目指すブログです
 
+![トップ画像](/images/top.png)
+"""
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
