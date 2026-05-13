@@ -5,6 +5,10 @@ draft = true
 tags = ["AI", "Claude", "Copilot", "時短", "マネーリテラシー"]
 categories = ["AI活用"]
 description = "AIツールが増えた今、「どれを使えばいいか」で迷っていないか？ClaudeとCopilotを目的で使い分けるようになってから、時間と思考のコストが激減した実体験をまとめた。"
+
+[cover]
+  image = "/images/AI-select.png"
+  alt = "AI活用のイメージ"
 +++
 
 ## ①AIツール、結局どれを使えばいいの？
