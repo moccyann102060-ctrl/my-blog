@@ -1,8 +1,8 @@
 +++
 title = "AIは目的で選ぶ時代。本業・副業・生活で使い分けてみた"
-date = "2026-05-13"
-draft = fales
-tags = ["AI", "Claude", "Copilot", "時短", ]
+date = "2026-05-17"
+draft = false
+tags = ["AI", "Claude", "Copilot", "時短"]
 categories = ["AI活用"]
 description = "AIツールが増えた今、「どれを使えばいいか」で迷っていないか？ClaudeとCopilotを目的で使い分けるようになってから、時間と思考のコストが激減した実体験をまとめた。"
 
